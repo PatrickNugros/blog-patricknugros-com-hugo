@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-02-03T17:00:00Z
-draft = true
 excerpt = "asfasfasf"
 hero = "/static/images/wd__3_.jpg"
 title = "walahlah"
