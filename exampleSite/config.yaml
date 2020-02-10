@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://blog.patricknugros.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Patrick Nugros"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
@@ -11,4 +11,4 @@ social:
   dribbble: "#"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: Patrick Nugros
