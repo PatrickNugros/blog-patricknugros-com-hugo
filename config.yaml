@@ -1,4 +1,5 @@
-baseURL: "https://blog.patricknugros.com"
-languageCode: "en-us"
-title: "Patrick Nugros"
-pygmentsstyle: 'monokai'
+---
+baseURL: https://blog.patricknugros.com
+languageCode: en-us
+title: Patrick Nugros
+pygmentsstyle: monokai
