@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Welcome to my blog, the simplest way to start publishing with Hugo.
+  heading: Welcome to my blog!
   maxWidthPX: 652
 ---
