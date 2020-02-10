@@ -8,10 +8,3 @@ fields:
   template: home-hero
   label: Hero
   description: asfasfasfasf
-- name: asfasfasfaf
-  type: text
-  config:
-    required: false
-  label: asfasfasfaf
-  description: asfasfagasgadgf
-  hidden: false
