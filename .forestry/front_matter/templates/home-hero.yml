@@ -7,7 +7,8 @@ fields:
   config:
     required: false
   label: Heading
-  description: The text displayed in the hero
+  description: The text displayed in the heasdfasfasfafro
+  hidden: false
 - name: maxWidthPX
   type: number
   label: Max Width
@@ -18,3 +19,9 @@ fields:
     min: 
     max: 
     step: 
+- name: afsasfasahgassssssss
+  type: text
+  config:
+    required: false
+  label: afsasfasahgassssssss
+  description: sssssssss
