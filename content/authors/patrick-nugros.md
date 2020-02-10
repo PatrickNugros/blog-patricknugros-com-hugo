@@ -1,9 +1,11 @@
 +++
 avatar = ""
-bio = "pat pat pat"
+bio = "an ordinary software engineer"
 draft = true
-featured = true
-social = []
+featured = false
 title = "Patrick Nugros"
+[[social]]
+title = "Twitter"
+url = "https://twitter.com/patricknugros"
 
 +++
