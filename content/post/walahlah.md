@@ -2,7 +2,7 @@
 authors = []
 date = 2020-02-03T17:00:00Z
 excerpt = "asfasfasf"
-hero = "/static/images/wd__3_.jpg"
+hero = "/static/uploads/wd__3_.jpg"
 title = "walahlah"
 
 +++
@@ -14,7 +14,7 @@ aksjbfdklajsljfblas
 
 asljjfba 
 
-![](/static/images/ws__5_.jpg)sdgsdg
+![](/static/uploads/ws__5_.jpg)sdgsdg
 
     dssgsdg
     l;hk;h

@@ -1,8 +1,19 @@
-+++
-avatar = ""
-bio = "I recently graduated from Kibar after completing four awesome years, and worked with world-class team at Digitaraya for two unbelievable years. Now i'm currently taking care of my baby Karia, help him to grow and make good things in the future."
-featured = true
-social = []
-title = "Patrick Nugros"
-
-+++
+---
+title: Patrick Nugros
+bio: |
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
+avatar: /images/profile-01.jpeg
+featured: true
+social:
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+  - title: github
+    url: https://github.com
+---
