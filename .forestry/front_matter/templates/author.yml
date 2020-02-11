@@ -16,6 +16,10 @@ fields:
     schema:
       format: markdown
   label: Bio
+  description: hai this is akl alkjsbndla asoihfdnlka.nsd  oalksaldnla;nsdnla asldknlnksd
+    asdajld
+  showOnly:
+    field: featured
 - name: avatar
   type: file
   config:
@@ -43,5 +47,3 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
-pages:
-- content/authors/patrick-nugros.md
